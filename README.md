@@ -1,2 +1,4 @@
 # Apes Recoded Repo!
-Hello skids and skidettes, yes you are allowed to take and use my Inappropriate Username list for your own needs, I do not mind.
+just some assets used in my game
+
+hello modder (i dont know if you are im just giving a fair guess lol)
