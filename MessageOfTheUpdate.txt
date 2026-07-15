@@ -3,10 +3,10 @@ MESSAGE OF THE UPDATE
 <size=10>
 Hello there! Welcome to Apes Recoded.
 
-Game has finally updated and hopefully the modders are gone for good!
+Game is having some issues with Meta Attestation right now, if you get a message saying you're "Soft Banned" do not worry! This is <i>NOT</i> permenant!
 
-It is now safe to play in publics, so now you can enjoy Apes Recoded to the fullest!!!
+You guys might have to live with this for a little bit while I work on our newest major update, so extremely sorry for this misconvenience.
 
-If there's ever a next time and you want <i>live</i> updates on the situation, consider joining the discord server!
+Some current fixes for you right now if this is happening is: keep restarting the game until it works, restart your headset, restart your wifi router.
 
-With all that said, enjoy Apes Recoded!
+For everyone else, please just ignore this message and enjoy!
