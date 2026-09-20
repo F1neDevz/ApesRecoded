@@ -1,13 +1,11 @@
-# MESSAGE OF THE UPDATE #
+# MESSAGE BOARD #
 <size=10>
 Hello there! Welcome to Apes Recoded.
 
-We have officially released one of our biggest updates in our game's history!
+We're currently working on our newest major update! It'll take anywhere from a week to a month to complete, so please be patient!
 
-This update took MONTHS to put together (though it was mostly due to internal difficulties,) and we hope we delivered.
+This update isn't our largest, but it's definitely packed with content, and I know you guys are going to love it!
 
-There could be some bugs, and if you find one, please report it to us in our discord!
-
-If you are a content creator, consider making a video giving feedback! We'd love to hear what you think.
+If you want the latest leaks and polls, be sure to check out our Discord server!
 
 Enjoy!
