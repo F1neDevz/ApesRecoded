@@ -1,12 +1,12 @@
 # MESSAGE BOARD #
 <size=10>
-Welcome to Apes Recoded: Autumn!
+The wait is over! After weeks of hard work behind the scenes, our new update is finally here!
 
-We're have finally released a new update after weeks of work behind the scenes!
+Our staff team had a blast beta testing it, and we hope you enjoy it just as much as we did. Jump in, explore what's new, and let us know what you think!
 
-I hope you guys like this update as much as our staff team did while beta testing!
+What's next? Our next update will most likely bring a brand-new gamemode, and you get to help decide which one! Head over to our poll system and cast your vote.
 
-Next update will highly likely have a new gamemode, so vote for which one you want on our poll system!
+Thanks for playing and for all your support. See you in-game!
 
 Have fun!
 - F1NEDevz
