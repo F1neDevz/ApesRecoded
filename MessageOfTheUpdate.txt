@@ -1,12 +1,12 @@
 # MESSAGE BOARD #
+<size=15>
+<i>SERVER MAINTENANCE</i>
 <size=10>
-The wait is over! After weeks of hard work behind the scenes, our new update is finally here!
+Apes Recoded will be temporarily unavailable while our Backend Developer, Dabeans, works on the game's servers to ensure everything is secure, stable, and running properly.
 
-Our staff team had a blast beta testing it, and we hope you enjoy it just as much as we did. Jump in, explore what's new, and let us know what you think!
+Downtime may last anywhere from an hour to up to a day.
 
-What's next? Our next update will most likely bring a brand-new gamemode, and you get to help decide which one! Head over to our poll system and cast your vote.
+We'll release an update as soon as the game is back online and ready to play!
 
-Thanks for playing and for all your support. See you in-game!
-
-Have fun!
+Thank you for your patience and continued support!
 - F1NEDevz
