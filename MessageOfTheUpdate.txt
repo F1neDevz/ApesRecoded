@@ -1,12 +1,10 @@
 # MESSAGE BOARD #
-<size=15>
-<i>SERVER MAINTENANCE</i>
 <size=10>
-Apes Recoded will be temporarily unavailable while our Backend Developer, Dabeans, works on the game's servers to ensure everything is secure, stable, and running properly.
+Apes Recoded's servers are back online and the game is officially ready to play again!
 
-Downtime may last anywhere from an hour to up to a day.
+The new update is now live, so hop back in and enjoy everything we've added!
 
-We'll release an update as soon as the game is back online and ready to play!
+Thank you for your patience while we worked to get everything secure, stable, and running properly.
 
-Thank you for your patience and continued support!
+Enjoy the new update, and have fun!
 - F1NEDevz
