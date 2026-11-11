@@ -1,12 +1,10 @@
 # MESSAGE BOARD #
 <size=10>
-Hello everybody! Welcome to the newest update of Apes Recoded.
+Hello everybody! Welcome to Apes Recoded.
 
-Apes Recoded's servers are back online and the game is officially ready to play again!
+Server's may be going down in a day or two, but don't fret! Big things are happening behind the scenes.
 
-There shouldn't be anymore sudden downtime in the future, so hop back in and enjoy everything we've added!
+The new update should release by the weekend!
 
-Thank you for your patience while we worked to get everything secure, stable, and running properly.
-
-Enjoy the new update, and have fun!
+Thank you all for your patience!
 - F1NEDevz
