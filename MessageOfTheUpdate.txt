@@ -1,10 +1,8 @@
 # MESSAGE BOARD #
 <size=10>
-Hello everybody! Welcome to Apes Recoded.
+Hello! Welcome to Apes Recoded.
 
-Server's may be going down in a day or two, but don't fret! Big things are happening behind the scenes.
-
-The new update should release by the weekend!
+SERVERS ARE NOW DOWN UNTIL THE NEXT BIG UPDATE!
 
 Thank you all for your patience!
 - F1NEDevz
