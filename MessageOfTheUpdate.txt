@@ -1,10 +1,12 @@
 # MESSAGE BOARD #
 <size=10>
-Hello! Welcome to Apes Recoded.
+Hello! Welcome back to Apes Recoded!
 
-SERVERS ARE NOW DOWN UNTIL THE NEXT BIG UPDATE!
+The Thanksgiving update is here, and we have done so many things from bug fixes to new features!
 
-COMING THIS FRIDAY @ APPROXIMATELY 3PM EST!
+The Headless Horseape bundle is now unavailable until next October, and the people who bought it keep it!
 
-Thank you all for your patience!
+We are sorry for the short downtime, the cause of this was because of us moving from EURA 1.0 to EURA 2.0, our backend developer's latest version of our anti-cheat. I'm sure you guys have noticed the way faster loading screen because of this switch!
+
+Thank you all for your patience and have fun now!
 - F1NEDevz
